@@ -1,0 +1,44 @@
+colhe aa
+jardim 10 10
+jardim 5 5
+entra ee
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+compra g
+compra a
+compra t
+iferr
+lferr
+pega 1
+larga
+planta aa c
+planta ab r
+planta ac e
+planta ad x
+planta ae c
+avanca 1
+planta ae c
+lplantas
+larea
+lsolo aa
+grava checkpoint1
+colhe aa
+colhe ab
+lplantas
+avanca 10
+recupera checkpoint1
+lplantas
+apaga checkpoint1
+recupera checkpoint1
+sai
+entra bb
+fim
